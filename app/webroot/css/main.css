@@ -348,7 +348,6 @@ float: left;
 
 .product_detail_left {
 	float: left;
-  position: relative;
 }
 
 .product_detail_left .product_img_wrapper {
@@ -448,13 +447,4 @@ float: left;
 
 #product-description {
   width: 600px;
-}
-
-#more-pictures img {
-  height: 70px;
-  width: 70px;
-}
-#breadcrumbs {
-  position: absolute;
-  top: -25px;
 }
